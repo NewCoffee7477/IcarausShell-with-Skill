@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public IcarusShell Bootstrap"
+  short_description: "Bootstrap a portable, public-safe skill repo with a canonical scaffold"
+  default_prompt: "Use $public-icarusshell-bootstrap to create a standalone, privacy-safe skill repository with a canonical IcarusShell++ scaffold.MD and scrubbed examples."
